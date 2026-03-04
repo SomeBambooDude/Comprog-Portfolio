@@ -1,0 +1,188 @@
+		body{
+		background-color: rgb(15, 15, 15) ;
+	}
+
+	#anotha{
+		color: white;
+		margin-left: 15vh;
+		margin-top: 7.5vh;
+		border: 1px rgb(15, 15, 15)	 solid;
+		height: stretch;
+		width: 35vh;
+	}
+	
+	#bg-color{
+		background-color: rgb(26, 26, 26);
+		border: 2px white solid;
+		height: stretch;
+		width: stretch;
+		border-radius: 15px;
+		border-top-color: transparent;
+	}
+	
+	#lalalalala{
+		border: 2px white solid;
+		font-family: arial;
+		background-color: rgb(15, 15, 15);
+		display: flex;
+		flex-direction: row;
+		height: 20vh;
+		width: stretch;
+		align-content: center;
+		border-radius: 15px;
+	}
+	
+	.asd{
+		color: purple;
+	}
+
+	#jajaa{
+		border: 0px white solid;
+		padding-top: 5vh;
+		margin-left: 20vh;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		width: stretch;
+		align-content: center;
+	}
+	
+	#pic-cover{
+		border: 2px black solid;
+		height: 62.6vh;
+		width: 62.5vh;
+		border-radius: 250px;
+		
+	}
+
+	#tara{
+		border: 2px black solid;
+		margin-bottom: 50vh;
+		margin-top: -40vh;
+		margin-left: 300px;
+		background-color: gray;
+		height: stretch;
+		width: stretch;
+		border-radius: 255px;
+		padding: 25px;
+	}
+	
+	#my-pic{
+		height: 60vh;
+		width: 60vh;
+		border-radius: 250px;
+		background-color: gray;
+		margin-right: 25px;
+		border: 10px gray solid;
+	}
+
+	#chloe{
+		border: 2px white solid;
+		border-radius: 15px;
+		background-color: white;
+		border-width: 10px;
+	}
+	
+	#sally{
+		background-color: aqua;
+		height: 60vh;
+		width: 60vh;
+		border-radius: 250px;
+	}
+	
+	#h3-span{
+		color: gold;
+		text-decoration: underline;
+		background-color: rgb(39, 39, 39);
+		border-radius: 15px;
+	}
+	
+	#pogi{
+		width: 100vh;
+		height: 10vh;
+		border: 1px black solid;
+		background-color: black;
+		border-radius: 25px;
+		color: lightblue;
+
+	}
+	
+	#hoy-wag-moko-kinokopya{
+		background-color: aqua;
+		border: 2px white	 solid;
+		margin-left: 25vh;
+		margin-right: 25vh;
+		border-radius: 25px;
+	}
+	
+	#123{
+		background-color: gray;
+		border: 1px black solid;
+		height: 5000vh;
+		width: stretch;
+	}
+	
+	#Greet{
+		padding-top: 2vh;
+		color: aqua;
+		height: 6vh;
+		width: 50vh;
+		border: 2px black solid;
+		border-radius: 50px;
+		background-color: darkcyan;
+	}
+
+	#Cont{
+		border: 1px darkblue solid;
+		background-color: darkblue;
+		margin-left: 5vh;
+		margin-right: 30vh;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-style: italic;
+		color: beige;
+		margin-top: 40vh;
+	}
+
+	#acts{
+		border: 1px white solid;
+		background-color: aliceblue;
+		margin-bottom: 15vh;
+		margin-left: 30vh;
+		margin-right: 5vh;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		font-style: italic;
+		color: darkmagenta;
+	}
+
+	.asd:hover{
+		color: white;
+		border: 2px aqua solid;
+		border-radius: 15px;
+		background-image: url(https://media.tenor.com/DhTvORIDgS8AAAAj/battle-cats-jump.gif);
+	}
+
+	table{
+		margin-top: -14vh;
+		font-size: large;
+		text-align: center;
+		border: 2px aqua solid;
+		border-collapse: collapse;
+		height: 50vh;
+		width: stretch;
+		color: yellow;
+	}
+
+	th, td, tr{
+		border: 2px aqua solid ;
+
+	}
+
+	th{
+		background-color: darkgreen;
+
+	}
+
+	td{
+		background-color: black;
+
+	}
